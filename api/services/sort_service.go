@@ -1,7 +1,7 @@
 package services
 
 import (
-	"go-testing/api/utils/sort"
+	"github.com/xorxteff/go-testing/api/utils/sort"
 )
 
 func Sort(numbers []int) {
